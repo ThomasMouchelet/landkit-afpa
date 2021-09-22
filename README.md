@@ -49,3 +49,14 @@ git branch -d feature
 
 git checkout -b nameOfBranch
 ```
+
+```
+git log
+git log --oneline
+```
+
+## Upload sur le repo github
+
+```
+git push origin master
+```
