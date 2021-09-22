@@ -30,3 +30,18 @@ git init
 ```
 git status
 ```
+
+## Commit state change
+
+```
+git add .
+git commit -m "message du commit"
+```
+
+## Branch
+
+```
+git branch
+git branch nameOfBranch
+git checkout feature nameOfBranch
+```
