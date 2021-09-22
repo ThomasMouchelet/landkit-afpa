@@ -24,3 +24,9 @@ git config --global user.email "user@email.com"
 ```
 git init
 ```
+
+## Virifier le status des fichiers git
+
+```
+git status
+```
