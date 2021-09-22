@@ -44,4 +44,8 @@ git commit -m "message du commit"
 git branch
 git branch nameOfBranch
 git checkout feature nameOfBranch
+get merge nameOfBranch
+git branch -d feature
+
+git checkout -b nameOfBranch
 ```
